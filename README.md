@@ -9,5 +9,5 @@ in particular the file was created with each run file contained in a separate di
 
 To illustrate: 
 
-'.../<directory with Juypter file>/<RUN NUMBER>/<ROOT file and other directories for plots, data or files>'
+`.../<directory with Juypter file>/<RUN NUMBER>/<ROOT file and other directories for plots, data or files>`
 
